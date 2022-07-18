@@ -11,6 +11,6 @@ assignees: ''
 
 Describe the issue you'd like the nixpkgs architecture team to consider solving
 
-**Potential solutions**
+**Goal**
 
-- If you have them, list some ideas for how to solve this issue here
+Describe when this issues should be considered done

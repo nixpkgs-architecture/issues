@@ -1,7 +1,5 @@
 # Nixpkgs Architecture Team Issues
 
-This repository is used to track issues that the [Nixpkgs Architecture Team](https://github.com/nixpkgs-architecture) might consider solving.
+This repository was used to track issues that the [Nixpkgs Architecture Team](https://github.com/nixpkgs-architecture) might consider solving.
 
-If you'd like to submit an issue for the nixpkgs architecture team to consider, click [here](https://github.com/nixpkgs-architecture/issues/issues/new?assignees=&labels=&template=issue.md&title=)
-
-Check out the associated [GitHub project](https://github.com/orgs/nixpkgs-architecture/projects/2) board for a better overview of all issues.
+Since the team is [now dissolved](https://discourse.nixos.org/t/nixpkgs-architecture-team-conclusion-and-prospective/41020), all issues have been transferred [to Nixpkgs](https://github.com/NixOS/nixpkgs/issues?q=is%3Aopen+is%3Aissue+label%3Aarchitecture).
